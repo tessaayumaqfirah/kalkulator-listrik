@@ -1,2 +1,2 @@
-streamlit==1.xx.x
-pandas==2.x.x
+streamlit
+pandas
